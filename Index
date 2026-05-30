@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي</title>
+</head>
+<body style="text-align:center;font-family:Arial;background:#111;color:white;">
+
+  <h1>مرحباً في موقعي</h1>
+
+  <h2>القوانين</h2>
+  <p>1- احترام الجميع</p>
+  <p>2- عدم السب</p>
+
+  <h2>ديسكورد</h2>
+  <a href="https://discord.gg/your-invite" style="color:cyan;">
+    ادخل سيرفر الديسكورد
+  </a>
+
+</body>
+</html>
